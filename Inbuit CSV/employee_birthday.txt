@@ -1,0 +1,6 @@
+name,department,birthday month
+Erica Meyers,IT,March
+Pooja Yadav, IT , August
+John Smith,Accounting,November
+Arun Yadav,IT,December
+
